@@ -1,29 +1,28 @@
-##What is SQL
-Structured query language (SQL) is a programming language for storing and processing information in a relational database. A relational database stores information in tabular form, with rows and columns representing different
-data attributes and the various relationships between the data values.SQL statements are used to store, update, remove, search, and retrieve information from the database.It is also used to maintain and optimize database performance.
-SQL is a popular query language that is frequently used in all types of applications. Data analysts and developers learn and use SQL because it integrates well with different programming languages. For exampleSQL queries can be embeded 
-with the Java programming language to build high-performing data processing applications with major SQL database systems such as Oracle or MS SQL Server. SQL  uses common English keywords in its statements.
+### What is SQL
+Structured query language (SQL) is a programming language for storing and processing information in a relational database. A relational database stores information in tabular form,
+with rows and columns representing differentdata attributes and the various relationships between the data values.SQL statements are used to store, update, remove, search, and retrieve information from the database.It is also used to maintain and optimize database performance.
+SQL is a popular query language that is frequently used in all types of applications. Data analysts and developers learn and use SQL because it integrates well with different programming languages. For exampleSQL queries can be embeded with the Java programming language to build high-performing data processing applications with major SQL database systems such as Oracle or MS SQL Server. SQL  uses common English keywords in its statements.
 
-##History of SQL
-SQL was invented in the 1970s based on the relational data model. It was initially known as the structured English query language (SEQUEL). The term was later shortened to SQL. Oracle, formerly known as Relational Software,
-became the first vendor to offer a commercial SQL relational database management system.
+### History of SQL
+SQL was invented in the 1970s based on the relational data model. It was initially known as the structured English query language (SEQUEL). The term was later shortened to SQL. Oracle, formerly known as Relational Software,became the first vendor to offer a commercial SQL relational database management system.
 
-##Importance of SQL in data management and business
+### Importance of SQL in data management and business
 SQL is crucial in data management and analysis. It serves as a powerful tool for accessing, manipulating, and managing data in relational databases, which are widely used in various industries to store and 
 organize information. 
 
 **Universality:** SQL is the standard language for dealing with relational databases.It is compatible with numerous database management systems such as MySQL, SQL Server, Oracle, and PostgreSQL.
 This wide applicability makes SQL an essential skill for data professionals.
+
 **Ease of use:** SQL is a relatively easy-to-learn language with a simple, human-readable syntax. It allows users to perform complex data operations without requiring extensive programming knowledge,
 making it accessible to a broader range of individuals.
+
 **Efficient data retrieval:** SQL enables  to filter and retrieve specific data from large databases quickly.We can select, sort, and aggregate data based on specific criteria, which is particularly useful in business settings for generating reports, insights, and making data-driven decisions.
+
 **Data manipulation:** SQL allows to easily insert, update, and delete data in a database. This capability is vital for maintaining and managing data, ensuring that the information remains up-to-date and accurate.
-**Data integrity and security:** With SQL, We can enforce data integrity rules and constraints, ensuring that the data stored in the database is consistent and reliable. Additionally, SQL provides mechanisms for 
-securing data, such as granting or revoking access permissions to different users, which is essential for safeguarding sensitive information.
 
-##Basic SQL terminology 
-**## Basic SQL Terminology
+**Data integrity and security:** With SQL, We can enforce data integrity rules and constraints, ensuring that the data stored in the database is consistent and reliable. Additionally, SQL provides mechanisms for securing data, such as granting or revoking access permissions to different users, which is essential for safeguarding sensitive information.
 
+### Basic SQL terminology 
 Before diving into SQL queries, it’s important to understand the basic terminology used when working with databases and SQL.
 
 **1.Database**
